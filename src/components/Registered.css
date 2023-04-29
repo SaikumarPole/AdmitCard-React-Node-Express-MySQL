@@ -1,0 +1,19 @@
+.admit-card {
+  margin: 0 auto; /* Center align the div */
+  border: 2px solid black; /* Add a black border */
+  width:  30%; /* Set a width for the div */
+  padding: 20px; /* Add some padding to the div */
+}
+
+.center {
+  text-align: center; /* Center align the h4 element */
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}

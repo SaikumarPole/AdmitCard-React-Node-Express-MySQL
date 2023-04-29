@@ -1,0 +1,45 @@
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #e7f1ff;
+    padding: 30px;
+    border-radius: 5px;
+  }
+  
+  form label {
+    display: none;
+  }
+  
+  form input {
+    background-color: #c4d8f7;
+    color: #fff;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 10px;
+  }
+  
+  form input::placeholder {
+    color: #fff;
+  }
+  
+  form button {
+    background-color: #ffa500;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #ff8c00;
+  }
+
+  
+  .btn-orange {
+    background-color: #f90;
+    border-color: #f90;
+  }
+  
