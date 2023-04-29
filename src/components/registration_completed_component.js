@@ -36,8 +36,8 @@ function Registered() {
                 'name': data.name,
                 'phone': data.phone,
                 'school': data.school,
-                'classNum': data.classNum,
-                'rollNum': data.rollNum,
+                'classNum': data.class,
+                'rollNum': data.roll_number,
                 'address': data.address,
                 });
             })
