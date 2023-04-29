@@ -25,6 +25,9 @@ Students can view their admit card and also download it in PDF format.
 - View your admit card on the website
 - Download your admit card in PDF format
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72508066/235320345-58bb5617-a956-4860-98f3-858859f28488.gif)
+
+
 # Contributing
 Contributions are always welcome! Please create a pull request with your changes.
 
